@@ -1,0 +1,28 @@
+{
+  "name": "prueba-storybook-figma",
+  "version": "1.0.0",
+  "description": "prueba para unir storybook y figma",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "author": "acordoba",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@storybook/addon-actions": "^6.5.15",
+    "@storybook/addon-essentials": "^6.5.15",
+    "@storybook/addon-interactions": "^6.5.15",
+    "@storybook/addon-links": "^6.5.15",
+    "@storybook/builder-webpack4": "^6.5.15",
+    "@storybook/html": "^6.5.15",
+    "@storybook/manager-webpack4": "^6.5.15",
+    "@storybook/testing-library": "0.0.13",
+    "babel-loader": "^8.3.0",
+    "chromatic": "^6.15.0",
+    "lit-html": "^2.6.1"
+  },
+  "dependencies": {}
+}
