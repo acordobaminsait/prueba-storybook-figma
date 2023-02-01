@@ -6,6 +6,10 @@ export default {
   parameters: {
     // More on Story layout: https://storybook.js.org/docs/html/configure/story-layout
     layout: 'fullscreen',
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/d91rGVVI3tNAdsJk9QQoJ1/storybook-con-figma?node-id=8%3A19&t=9xUQJJvOhoDgi6DO-1'
+   }
   },
 };
 
