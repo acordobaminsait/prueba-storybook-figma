@@ -7,7 +7,7 @@ export const createCard = ({
 }) => {
 
   const crd = document.createElement('card');
-  crd.innerText = text;
+  crd.innerHTML = "<div id='container' class='storybook-card'>"+text+"</div>";
 
   crd.className = ['storybook-card', `storybook-card--${size}`].join(' ');
 

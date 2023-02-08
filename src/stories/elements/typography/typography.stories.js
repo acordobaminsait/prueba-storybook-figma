@@ -26,3 +26,10 @@ BlueLarge.args = {
   fontSize: '24px',
   fontWeight: 'bold'
 };
+
+BlueLarge.parameters = {
+  design: {
+    type: "figma",
+    url: "https://www.figma.com/file/d91rGVVI3tNAdsJk9QQoJ1/storybook-con-figma?node-id=72%3A409&t=UFBL2mSDeQvR6i4J-0",
+  },
+};
