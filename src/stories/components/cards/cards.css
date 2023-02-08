@@ -1,0 +1,21 @@
+.storybook-button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  display: inline-block;
+  line-height: 1;
+}
+
+.storybook-card--small {
+  width: 100px;
+  /* padding: 10px 16px; */
+}
+.storybook-card--medium {
+  width: 250px;
+  /* padding: 11px 20px; */
+}
+.storybook-card--large {
+  width: 500px;
+  /* padding: 12px 24px; */
+}

@@ -1,5 +1,5 @@
 import { within, userEvent } from '@storybook/testing-library';
-import { createPage } from './Page';
+import { createPage } from './main-page/Page';
 
 export default {
   title: 'Example/Page',
@@ -8,7 +8,7 @@ export default {
     layout: 'fullscreen',
     design: {
       type: 'figma',
-      url: 'https://www.figma.com/file/d91rGVVI3tNAdsJk9QQoJ1/storybook-con-figma?node-id=8%3A19&t=9xUQJJvOhoDgi6DO-1'
+      url: 'https://www.figma.com/file/d91rGVVI3tNAdsJk9QQoJ1/storybook-con-figma?node-id=70%3A471&t=F6m9x97f97x4Vuww-11'
    }
   },
 };
