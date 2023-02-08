@@ -2,7 +2,7 @@ import { createTypography } from './typography';
 
 // More on default export: https://storybook.js.org/docs/html/writing-stories/introduction#default-export
 export default {
-  title: 'Example/Typography',
+  title: 'Elements/Typography',
   // More on argTypes: https://storybook.js.org/docs/html/api/argtypes
   argTypes: {
     color: { control: 'color' },

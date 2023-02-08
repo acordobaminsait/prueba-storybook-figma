@@ -2,7 +2,7 @@ import { within, userEvent } from '@storybook/testing-library';
 import { createPage } from './main-page/Page';
 
 export default {
-  title: 'Example/Page',
+  title: 'Pages/MainPage',
   parameters: {
     // More on Story layout: https://storybook.js.org/docs/html/configure/story-layout
     layout: 'fullscreen',
