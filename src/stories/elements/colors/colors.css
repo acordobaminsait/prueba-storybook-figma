@@ -6,4 +6,6 @@
   display: inline-block;
   line-height: 1;
   color: white;
+  width: 200px;
+  text-align: center;
 }

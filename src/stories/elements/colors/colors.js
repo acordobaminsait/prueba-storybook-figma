@@ -7,7 +7,7 @@ export const createColor = ({
 
   const clr = document.createElement('color');
   clr.innerText = text;
-
+  clr.className = 'storybook-color';
   clr.style.backgroundColor = backgroundColor;
 
   return clr;
